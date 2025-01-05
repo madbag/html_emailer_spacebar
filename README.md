@@ -1,4 +1,4 @@
-# README - Diversity Month HTML Emailer
+# Diversity Month HTML Emailer
 
 ## Project Overview
 
